@@ -1,0 +1,5 @@
+const howManyHundreds = function (n) {
+  let total = n / 100
+  return total.toFixed(0);
+};
+
